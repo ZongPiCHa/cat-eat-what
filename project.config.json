@@ -1,0 +1,40 @@
+{
+  "description": "猫猫今天吃什么 —— 微信小程序 Canvas 小游戏",
+  "packOptions": {
+    "ignore": [
+      {
+        "type": "file",
+        "value": "preview.html"
+      }
+    ],
+    "include": []
+  },
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "enhance": true,
+    "postcss": true,
+    "minified": true,
+    "newFeature": true,
+    "coverView": true,
+    "nodeModules": false,
+    "autoAudits": false,
+    "showShadowRootInWxmlPanel": true,
+    "scopeDataCheck": false,
+    "checkInvalidKey": true,
+    "checkSiteMap": true,
+    "uploadWithSourceMap": true,
+    "compileHotReLoad": true,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    }
+  },
+  "compileType": "miniprogram",
+  "libVersion": "3.4.3",
+  "appid": "touristappid",
+  "projectname": "cat-eat-what",
+  "miniprogramRoot": "./",
+  "condition": {}
+}
